@@ -1,6 +1,5 @@
 {
     "spider": "https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBb3d0QlVrR3NRUExsRFo2WmhrZDFDY0hENWpr.jar",
-    "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=https://raw.githubusercontent.com/kisskai/TV2/main/live.txt"]}]}], 
     "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
     "warningText": "贝贝专用",
     "sites": [
