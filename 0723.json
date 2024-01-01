@@ -871,97 +871,6 @@
             "changeable": 1
         },
         {
-            "key": "csp_Yj1211",
-            "name": "📽️网红┃直播",
-            "type": 3,
-            "api": "csp_Yj1211",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "88js",
-            "name": "⚽ 88┃看球",
-            "type": 3,
-            "api": "./js/drpy2.min.js",
-            "ext": "./libs/88看球.js",
-            "style": {
-                "type": "rect",
-                "ratio": 1
-            },
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0
-        },
-        {
-            "key": "csp_qiumi",
-            "name": "⚽ Jrs┃球迷",
-            "type": 3,
-            "api": "./js/drpy2.min.js",
-            "ext": "./libs/jrk.js",
-            "style": {
-                "type": "rect",
-                "ratio": 1
-            },
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0
-        },
-        {
-            "key": "csp_310直播",
-            "name": "⚽310┃看球",
-            "type": 3,
-            "api": "./js/drpy2.min.js",
-            "ext": "./libs/310直播.js",
-            "style": {
-                "type": "rect",
-                "ratio": 1
-            },
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0
-        },
-        {
-            "key": "csp_XPath_企鹅体育",
-            "name": "🐧企鹅┃体育",
-            "type": 3,
-            "api": "csp_XPath",
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            },
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "ext": "./libs/企鹅直播.json"
-        },
-        {
-            "key": "MV_vod",
-            "name": "🎶明星┃MV",
-            "type": 1,
-            "api": "https://mv.wogg.link/mv/vod",
-            "style": {
-                "type": "oval"
-            },
-            "searchable": 1,
-            "quickSearch": 0,
-            "changeable": 0
-        },
-        {
-            "key": "酷奇js",
-            "name": "🎤酷奇┃MV",
-            "type": 3,
-            "api": "./js/drpy2.min.js",
-            "ext": "./libs/酷奇MV.js",
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            },
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0
-        },
-        {
             "key": "虎牙直播js",
             "name": "🐯虎牙┃直播",
             "type": 3,
@@ -1010,27 +919,6 @@
             "ext": "./libs/qie.py"
         },
         {
-            "key": "py_cctv",
-            "name": "❤️┃央视┃大全",
-            "type": 3,
-            "api": "py_cctv",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "ext": "./libs/cctv.py"
-        },
-        {
-            "key": "csp_酷奇",
-            "name": "🎤┃酷奇┃音乐",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "jar": "./js/XBPQ.jar;md5;5C5116C70E15343433C8480C3B448408",
-            "ext": "./libs/酷奇MV.json"
-        },
-        {
             "key": "YiSo",
             "name": "😹易搜┃搜索",
             "type": 3,
@@ -1065,16 +953,6 @@
             "name": "🌤️┃阿里┃云搜",
             "type": 3,
             "api": "csp_UpYun",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 0,
-            "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd"
-        },
-        {
-            "key": "PanSearch",
-            "name": "🏵️‍┃阿里┃PanS",
-            "type": 3,
-            "api": "csp_PanSearch",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
@@ -1120,80 +998,6 @@
             "searchable": 0,
             "quickSearch": 0,
             "ext": "http://127.0.0.1:9978/file/tvbox/token.txt+4k|auto|fhd"
-        },
-        {
-            "key": "csp_Nbys",
-            "name": "🛫泥巴┃飞",
-            "type": 3,
-            "api": "csp_NiNi",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "csp_trj",
-            "name": "🛫唐人街┃飞",
-            "type": 3,
-            "api": "csp_Tangrenjie",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
-            "key": "csp_聚短视频",
-            "name": "📽️聚短┃视频",
-            "type": 3,
-            "api": "./js/drpy2.min.js",
-            "ext": "./libs/短视频.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0
-        },
-        {
-            "key": "有声小说js",
-            "name": "🎧有声┃小说",
-            "type": 3,
-            "api": "./js/drpy2.min.js",
-            "ext": "./libs/有声小说吧.js",
-            "style": {
-                "type": "rect",
-                "ratio": 1
-            },
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0
-        },
-        {
-            "key": "js_DJ5",
-            "name": "🎦┃短剧┃DJ5",
-            "type": 3,
-            "api": "./js/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./libs/短剧网.js"
-        },
-        {
-            "key": "csp_XYQHiker_VSYY",
-            "name": "🎦┃短剧┃VSY",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "api": "csp_XYQHiker",
-            "jar": "./js/XYQH.jar;md5;A21EA6F5DD3B5F922B3A7F54D3BD0F16",
-            "ext": "./libs/VS影院.json"
-        },
-        {
-            "key": "csp_Bili短剧",
-            "name": "🎦┃短剧┃BiL",
-            "api": "csp_Bili",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "./js/XYQH.jar;md5;A21EA6F5DD3B5F922B3A7F54D3BD0F16",
-            "ext": "./libs/Bili短剧.json"
         },
         {
             "key": "XBPQ_葡萄",
@@ -1354,28 +1158,6 @@
             "ext": "./libs/bili.json"
         },
         {
-            "key": "csp_Bili_dashan",
-            "name": "💋┃搭讪┃教程",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "jar": "./js/XBPQ.jar;md5;5C5116C70E15343433C8480C3B448408",
-            "ext": "./libs/搭讪.json"
-        },
-        {
-            "key": "csp_Bili__dapei",
-            "name": "💃┃搭配┃教程",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "jar": "./js/XBPQ.jar;md5;5C5116C70E15343433C8480C3B448408",
-            "ext": "./libs/搭配.json"
-        },
-        {
             "key": "js_B站精简",
             "name": "🅱️┃哔哩┃精简",
             "type": 3,
@@ -1384,17 +1166,6 @@
             "quickSearch": 0,
             "filterable": 1,
             "ext": "./libs/B站精简.js"
-        },
-        {
-            "key": "csp_Bili_meishi",
-            "name": "🅱️┃美食┃合集",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "jar": "./js/XBPQ.jar;md5;5C5116C70E15343433C8480C3B448408",
-            "ext": "./libs/美食合集.json"
         },
         {
             "key": "csp_Bili_youer",
@@ -1441,17 +1212,6 @@
             "ext": "./libs/gaozhong.json"
         },
         {
-            "key": "csp_Bili_zyy",
-            "name": "🅱️┃中医┃药区",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "jar": "./js/XBPQ.jar;md5;5C5116C70E15343433C8480C3B448408",
-            "ext": "./libs/zyy.json"
-        },
-        {
             "key": "csp_Bili_xuqu1",
             "name": "🅱️┃戏曲┃合集",
             "type": 3,
@@ -1496,70 +1256,6 @@
             "ext": "./libs/qiudui.json"
         },
         {
-            "key": "csp_Bili_Meinvw",
-            "name": "🅱️┃美女┃舞蹈",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "jar": "./js/XBPQ.jar;md5;5C5116C70E15343433C8480C3B448408",
-            "ext": "./libs/meinv.json"
-        },
-        {
-            "key": "csp_Bili_yanchh",
-            "name": "🅱️┃歌手┃合集",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "jar": "./js/XBPQ.jar;md5;5C5116C70E15343433C8480C3B448408",
-            "ext": "./libs/geshou.json"
-        },
-        {
-            "key": "csp_Bili_Nvtuan",
-            "name": "🅱️┃女团┃热舞",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "jar": "./js/XBPQ.jar;md5;5C5116C70E15343433C8480C3B448408",
-            "ext": "./libs/nvtuan.json"
-        },
-        {
-            "key": "MV_vod",
-            "name": "🎹┃MTV┃合集",
-            "type": 1,
-            "api": "https://mv.wogg.link/mv/vod",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_Bili_MTV",
-            "name": "🅱️┃歌曲┃演唱",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "jar": "./js/XBPQ.jar;md5;5C5116C70E15343433C8480C3B448408",
-            "ext": "./libs/mtv.json"
-        },
-        {
-            "key": "csp_Bili_Yinl2",
-            "name": "🅱️┃音悦┃合集",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "jar": "./js/XBPQ.jar;md5;5C5116C70E15343433C8480C3B448408",
-            "ext": "./libs/yinyue.json"
-        },
-        {
             "key": "js_哔哩直播",
             "name": "🅱️┃哔哩┃直播",
             "type": 3,
@@ -1569,17 +1265,6 @@
             "filterable": 0,
             "ext": "./libs/哔哩直播.js"
         },
-        {
-            "key": "短视频",
-            "name": "📱┃网红┃美女",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "jar": "./js/XBPQ.jar;md5;5C5116C70E15343433C8480C3B448408",
-            "ext": "./libs/短视频聚合.json"
-        }
     ],
     "parses": [
         {
