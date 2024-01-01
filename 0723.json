@@ -154,25 +154,6 @@
             "filterable": 1
         },
         {
-            "key": "csp_Btwtoo",
-            "name": "✌┃两个┃鼻涕",
-            "type": 3,
-            "api": "csp_Bttwoo",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "js_大师兄",
-            "name": "🐵┃师兄┃影视",
-            "type": 3,
-            "api": "./js/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./libs/大师兄影视.js"
-        },
-        {
             "key": "js_电影先生",
             "name": "🤵┃电影┃先生",
             "type": 3,
@@ -204,16 +185,6 @@
             "ext": "./libs/xsj.js"
         },
         {
-            "key": "js_骚火电影",
-            "name": "🔥┃骚火┃影视",
-            "type": 3,
-            "api": "./js/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./libs/saohuo.js"
-        },
-        {
             "key": "js_农民",
             "name": "👨‍🌾┃农民┃影视",
             "type": 3,
@@ -232,16 +203,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./libs/bzys.js"
-        },
-        {
-            "key": "csp_MeiJu69",
-            "name": "🗽┃六九┃美剧",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.69mj.com/xgapp.php/v2/"
         },
         {
             "key": "csp_dadagui",
@@ -293,17 +254,6 @@
             "filterable": 1,
             "jar": "./lib/XBPQ.jar;md5;5C5116C70E15343433C8480C3B448408",
             "ext": "./libs/圣城.json"
-        },
-        {
-            "key": "csp_XBPQ_348z",
-            "name": "🎲┃348┃电影",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "./js/XBPQ.jar;md5;5C5116C70E15343433C8480C3B448408",
-            "ext": "./libs/348z.json"
         },
         {
             "key": "csp_XBPQ_haoxi",
