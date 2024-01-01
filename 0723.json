@@ -1,11 +1,11 @@
 {
     "spider": "./fty.jar;md5;f8e21d60027d5d4f9e287be44f192c3f",
     "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
-    "warningText": "资源来自网络，所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买。",
+    "warningText": "贝贝专用",
     "sites": [
         {
             "key": "豆瓣",
-            "name": "🌕┃豆瓣┃软件接口皆是免费,禁止贩卖『个人自用』💢v23121",
+            "name": "贝贝专用",
             "type": 3,
             "api": "csp_DouDou",
             "searchable": 0,
@@ -1018,16 +1018,6 @@
             "quickSearch": 0,
             "filterable": 1,
             "ext": "./libs/cctv.py"
-        },
-        {
-            "key": "js_a8音乐",
-            "name": "🎸┃奥迪┃音乐",
-            "type": 3,
-            "api": "./js/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./libs/a8音乐.js"
         },
         {
             "key": "csp_酷奇",
